@@ -16,18 +16,18 @@ The system is a software application designed to assist users in efficiently org
 - Model-View-Controller (MVC) Design
 
 ## Content
-/ src (source code)
-    / main 
-        / java/hk/edu/polyu/comp/comp2021/tms
-            / controller 
-            / model 
-            / utils
-            / view 
-                / ui
+- /src (source code)
+    - /main 
+        - /java/hk/edu/polyu/comp/comp2021/tms
+            - /controller 
+            - /model 
+            - /utils
+            - /view 
+                - /ui
                 - Main.java (with Command-line Interface)
                 - MainUI.java (with GUI, using Java Swing)
     - test (unit tests)
-        / java/hk/edu/polyu/comp/comp2021/tms
+        - /java/hk/edu/polyu/comp/comp2021/tms
         - TestModel.java (to run program tests)
 
 ## Group Members (Group 3)
