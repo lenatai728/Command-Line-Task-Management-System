@@ -1,10 +1,10 @@
 # COMP2021 Group Project - Command-Line Task Management System by Project Group 3
 
 ## Description 
-Year: 2
-Semester: 1
-Subject: COMP2021 Object-Oriented Programming
-Project Period: Nov-Dec, 2023
+- Year: 2
+- Semester: 1
+- Subject: COMP2021 Object-Oriented Programming
+- Project Period: Nov-Dec, 2023
 
 ## Task Management System 
 The system is a software application designed to assist users in efficiently organizing and tracking their tasks.
